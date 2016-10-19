@@ -24,4 +24,13 @@ IoT Hackaton 2016
 
 Краткий курс о том, что такое MCU и как он работает можно найти [здесь](http://easyelectronics.ru/category/arm-uchebnyj-kurs)
 
+### Ссылки на документацию и примеры
+
+* [Nucleo-64 Board](http://www.st.com/content/st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32cube-embedded-software/stm32cubef4.html)
+* [MEMS Inertial and Environmental](http://www.st.com/content/st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32cube-expansion-software/x-cube-mems1.html)
+* [WiFi module](http://www.st.com/content/st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32cube-expansion-software/x-cube-wifi1.html)
+* [VL6180X (Proximity and Gestures)](http://www.st.com/content/st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32cube-expansion-software/x-cube-6180xa1.html)
+* [Digital MEMS microphones](http://www.st.com/content/st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32cube-expansion-software/x-cube-memsmic1.html)
+* [Dynamic NFC tag](http://www.st.com/content/st_com/en/products/embedded-software/mcus-embedded-software/stm32-embedded-software/stm32cube-expansion-software/x-cube-nfc1.html)
+
 ## Желаем Удачи!
